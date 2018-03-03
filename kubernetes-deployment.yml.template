@@ -42,4 +42,3 @@ spec:
     - port: 8088
       targetPort: 3000
   type: ClusterIP
-  
