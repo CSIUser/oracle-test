@@ -27,7 +27,7 @@ spec:
         ports:
         - containerPort: 3000
           protocol: TCP
-      imagePullSecrets:exte
+      imagePullSecrets:
       - name: wrelease
       restartPolicy: Always
 ---
